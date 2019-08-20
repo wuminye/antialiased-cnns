@@ -28,6 +28,9 @@ The repository builds off the PyTorch [examples repository](https://github.com/p
 - Install PyTorch ([pytorch.org](http://pytorch.org))
 - `pip install -r requirements.txt`
 
+### Setup using setup.py
+
+- Run `python setup.py install`
 
 ### Download anti-aliased models
 
